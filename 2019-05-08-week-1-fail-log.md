@@ -1,5 +1,5 @@
 # Week 1 fail log
-Admittedly, I had a difficult first week. I was able to create my GitHub, DH Box, and Hypothesis accounts but there were a few hiccups (that I annotated using Hypothesis).   
+So far just very confused about everything. What are we using the DH Box for? Do I use it at all in week 1? I don't understand the differences between fail logs and the blog posts as well.  
 
 ## First Annotation
 My [first annotation](https://hyp.is/kVL5clh7EemcYK_k_itFTg/workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/) was about my confusion setting up the DH Box account. I did not pay attention to the sign-up and accidentally chose the 24 account time frame instead of the month long account. Unfortunately, I only realized this after I couldn't login to my account anymore. I had some files in my DH Box account already which I have since lost.
