@@ -1,11 +1,11 @@
-Made Slack account
+1. Made Slack account
 
-Made Hypothes.is account
+2. Made Hypothes.is account
 
-Made GitHub account
+3. Made GitHub account
 
-Forked example fail log
+4. Forked example fail log
 
-Updated title of example fail log
+5. Updated title of example fail log
 
-Changed read me file into summary of fail logs
+6. Changed read me file into summary of fail logs
